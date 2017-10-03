@@ -3,7 +3,6 @@ This plugin allows users to manually tap and save to the BPM file tag.
 
 ## Installation
 - Download and extract the [latest release](https://github.com/TylerMD/MusicBee-BPMTapper/releases).
-- Copy all the extracted `.dll` files into your `MusicBee/Plugins` directory.
 - Open MusicBee.
 - In the "Preferences -> Plug-ins", click "Add Plugin" button in top-right corner.
 - Browse for downloaded '.dll' file and load it.
