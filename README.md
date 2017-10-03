@@ -4,6 +4,8 @@ This plugin allows users to manually tap and save to the BPM file tag.
 ## Installation
 - Download and extract the [latest release](https://github.com/TylerMD/MusicBee-BPMTapper/releases).
 - Copy all the extracted `.dll` files into your `MusicBee/Plugins` directory.
+- Open MusicBee
+- In the Preferences -> HotKeys: setup your preferred hotkeys for Tap/Save/Reset (I recommend Ctrl+1/Ctrl+2/Ctrl+3)
 - Done!
 
 
