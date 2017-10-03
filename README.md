@@ -10,6 +10,9 @@ This plugin allows users to manually tap and save to the BPM file tag.
 ## Development
 Want to contribute? Great! Make a pull request and I'll review and merge.
 
+## About Editing
+When Building the project, Visual Studio may have to be Run As Administrator to insert the .dll file in to Program Files directory
+
 ## Todos
  - Add uninstaller
  - Remove the Titlebar to reduce footprint.
