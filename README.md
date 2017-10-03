@@ -8,7 +8,7 @@ This plugin allows users to manually tap and save to the BPM file tag.
 - In the "Preferences -> Plug-ins", click "Add Plugin" button in top-right corner
 - Browse for downloaded '.dll' file and load it
 - In the "Preferences -> Hotkeys", Setup your preferred hotkeys for Tap/Save/Reset 
--- (I recommend Ctrl+1/Ctrl+2/Ctrl+3)
+  - (I recommend Ctrl+1/Ctrl+2/Ctrl+3)
 - Get to work!
 
 
