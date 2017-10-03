@@ -1,0 +1,10 @@
+D:\Users\Ventress\Desktop\_MusicBee\VB Source\bin\Debug\mb_TestVbDll.dll.config
+D:\Users\Ventress\Desktop\_MusicBee\VB Source\bin\Debug\mb_TestVbDll.dll
+D:\Users\Ventress\Desktop\_MusicBee\VB Source\bin\Debug\mb_TestVbDll.pdb
+D:\Users\Ventress\Desktop\_MusicBee\VB Source\bin\Debug\mb_TestVbDll.xml
+D:\Users\Ventress\Desktop\_MusicBee\VB Source\obj\Debug\MusicBeePlugin.Resources.resources
+D:\Users\Ventress\Desktop\_MusicBee\VB Source\obj\Debug\TestVbDll.vbproj.GenerateResource.Cache
+D:\Users\Ventress\Desktop\_MusicBee\VB Source\obj\Debug\mb_TestVbDll.dll
+D:\Users\Ventress\Desktop\_MusicBee\VB Source\obj\Debug\mb_TestVbDll.xml
+D:\Users\Ventress\Desktop\_MusicBee\VB Source\obj\Debug\mb_TestVbDll.pdb
+D:\Users\Ventress\Desktop\_MusicBee\VB Source\obj\Debug\MusicBeePlugin.Form1.resources

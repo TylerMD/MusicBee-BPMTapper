@@ -1,0 +1,20 @@
+D:\Users\Ventress\Desktop\_MusicBee\VB Source\bin\Debug\mb_BPMTapper.dll.config
+D:\Users\Ventress\Desktop\_MusicBee\VB Source\bin\Debug\mb_BPMTapper.dll
+D:\Users\Ventress\Desktop\_MusicBee\VB Source\bin\Debug\mb_BPMTapper.pdb
+D:\Users\Ventress\Desktop\_MusicBee\VB Source\bin\Debug\mb_BPMTapper.xml
+D:\Users\Ventress\Desktop\_MusicBee\VB Source\obj\Debug\MusicBeePlugin.Form1.resources
+D:\Users\Ventress\Desktop\_MusicBee\VB Source\obj\Debug\MusicBeePlugin.Resources.resources
+D:\Users\Ventress\Desktop\_MusicBee\VB Source\obj\Debug\BPMTapperVbDll.vbproj.GenerateResource.Cache
+D:\Users\Ventress\Desktop\_MusicBee\VB Source\obj\Debug\mb_BPMTapper.dll
+D:\Users\Ventress\Desktop\_MusicBee\VB Source\obj\Debug\mb_BPMTapper.xml
+D:\Users\Ventress\Desktop\_MusicBee\VB Source\obj\Debug\mb_BPMTapper.pdb
+D:\Users\Ventress\Desktop\_MusicBee\BPM Tapper (Source)\bin\Debug\mb_BPMTapper.dll.config
+D:\Users\Ventress\Desktop\_MusicBee\BPM Tapper (Source)\bin\Debug\mb_BPMTapper.dll
+D:\Users\Ventress\Desktop\_MusicBee\BPM Tapper (Source)\bin\Debug\mb_BPMTapper.pdb
+D:\Users\Ventress\Desktop\_MusicBee\BPM Tapper (Source)\bin\Debug\mb_BPMTapper.xml
+D:\Users\Ventress\Desktop\_MusicBee\BPM Tapper (Source)\obj\Debug\MusicBeePlugin.Form1.resources
+D:\Users\Ventress\Desktop\_MusicBee\BPM Tapper (Source)\obj\Debug\MusicBeePlugin.Resources.resources
+D:\Users\Ventress\Desktop\_MusicBee\BPM Tapper (Source)\obj\Debug\BPMTapperVbDll.vbproj.GenerateResource.Cache
+D:\Users\Ventress\Desktop\_MusicBee\BPM Tapper (Source)\obj\Debug\mb_BPMTapper.dll
+D:\Users\Ventress\Desktop\_MusicBee\BPM Tapper (Source)\obj\Debug\mb_BPMTapper.xml
+D:\Users\Ventress\Desktop\_MusicBee\BPM Tapper (Source)\obj\Debug\mb_BPMTapper.pdb

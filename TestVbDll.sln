@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "BPMTapperVbDll", "BPMTapperVbDll.vbproj", "{6B461FD9-06C0-41C5-A9F5-6488639746B7}"
+EndProject
+Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "MusicBee", "C:\Program Files (x86)\MusicBee\MusicBee.exe", "{99446BB9-27D7-4C48-BDF7-0489F1767580}"
+	ProjectSection(DebuggerProjectSystem) = preProject
+		PortSupplier = 00000000-0000-0000-0000-000000000000
+		Executable = C:\Program Files (x86)\MusicBee\MusicBee.exe
+		RemoteMachine = VENTRESS-PC
+		StartingDirectory = C:\Program Files (x86)\MusicBee
+		Environment = Default
+		LaunchingEngine = 00000000-0000-0000-0000-000000000000
+		LaunchSQLEngine = No
+		AttachLaunchAction = No
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B461FD9-06C0-41C5-A9F5-6488639746B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B461FD9-06C0-41C5-A9F5-6488639746B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B461FD9-06C0-41C5-A9F5-6488639746B7}.Debug|x86.ActiveCfg = Debug|x86
+		{6B461FD9-06C0-41C5-A9F5-6488639746B7}.Debug|x86.Build.0 = Debug|x86
+		{6B461FD9-06C0-41C5-A9F5-6488639746B7}.Release|Any CPU.ActiveCfg = Release|x86
+		{6B461FD9-06C0-41C5-A9F5-6488639746B7}.Release|Any CPU.Build.0 = Release|x86
+		{6B461FD9-06C0-41C5-A9F5-6488639746B7}.Release|x86.ActiveCfg = Release|x86
+		{6B461FD9-06C0-41C5-A9F5-6488639746B7}.Release|x86.Build.0 = Release|x86
+		{99446BB9-27D7-4C48-BDF7-0489F1767580}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{99446BB9-27D7-4C48-BDF7-0489F1767580}.Debug|x86.ActiveCfg = Debug|x86
+		{99446BB9-27D7-4C48-BDF7-0489F1767580}.Release|Any CPU.ActiveCfg = Debug|x86
+		{99446BB9-27D7-4C48-BDF7-0489F1767580}.Release|x86.ActiveCfg = Debug|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
