@@ -1,5 +1,10 @@
 # MusicBee-BPMTapper
 This plugin allows users to manually tap the BPM while listening to music and save it to the file's BPM tag.
+[[https://github.com/username/repository/blob/master/img/octocat.png|alt=octocat]]
+
+[[screenshots/Screenshot1.PNG|alt=fullscreen example]]
+
+[[screenshots/Screenshot2.PNG|alt=Pop-up window]]
 
 ## Installation
 - To avoid minor bugs, update MusicBee to at least v3.1 (September 16, 2017)
